@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "roller cosater madnesss - kelvin",
+"dataUrl": "kelvin roller super nice game.data.unityweb",
+"wasmCodeUrl": "kelvin roller super nice game.wasm.code.unityweb",
+"wasmFrameworkUrl": "kelvin roller super nice game.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
